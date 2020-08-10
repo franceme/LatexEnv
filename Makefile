@@ -12,6 +12,7 @@ clean=$(scripts)/delatex.py
 flatten=$(scripts)/flatten.py
 syntax=$(scripts)/texcheck.py
 noPic=$(scripts)/removePic.py
+dict=./rsc/dict.txt
 extension=odt
 
 default: make
